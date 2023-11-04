@@ -20,3 +20,10 @@ they always take things literally."
 If you don't pass in a "question" prop, how might you make it only 
 show the punchline?
 */
+for(;;){
+  if(1){
+    for(;;){
+      ;
+    }
+  }
+}
